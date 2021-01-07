@@ -8,7 +8,7 @@ So that’s where we decided to create our own Component which handles this prob
 ## The solution…
 After scratching our heads for a week and trying out different things, finally we came across React’s Recursive Components. There was an instinct that it could solve our problem. As the name suggests, a component rendered within the same component is called Recursive Component. With recursion, we achieved minimal re-rendering while loading the next pages.
 ## Visualization of the solution…
-recursive-lazy-visualization.png
+![recursive-lazy-visualization](recursive-lazy-visualization.png)
 
 ## Component’s Integration
 ```
