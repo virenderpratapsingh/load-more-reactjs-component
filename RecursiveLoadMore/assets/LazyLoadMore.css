@@ -1,0 +1,15 @@
+button.inf-pgntn.arrow:after{transform: rotate(45deg);margin: 0px 2px 2px 5px !important;}
+.inf-pgntn.loading{pointer-events: none;}
+.button--secondary{
+	border: 1px solid #1048c3;
+    color: #1048c3;
+}
+.load-more-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0px 16px 0px;
+	color: #1048c3;
+	cursor: pointer;
+	width: 100%;
+}
